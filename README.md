@@ -2,7 +2,7 @@
 
 ## Objectives
 
-1. Understand primary and foreign key.
+1. Understand primary and foreign keyy.
 2. Understand the has many/ belongs to relationship.
 
 
